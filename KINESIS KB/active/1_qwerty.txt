@@ -1,0 +1,11 @@
+[scroll]>[shutdn]
+[kp=]>[kp=mac]
+[lctrl]>[lwin]
+[kp-lctrl]>[kp-lwin]
+[rctrl]>[rwin]
+[kp-rctrl]>[kp-rwin]
+[rwin]>[ralt]
+[kp-rwin]>[kp-rctrl]
+[pup]>[rctrl]
+[home]>[lctrl]
+
