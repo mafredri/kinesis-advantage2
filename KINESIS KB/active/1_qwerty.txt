@@ -8,4 +8,3 @@
 [kp-rwin]>[kp-rctrl]
 [pup]>[rctrl]
 [home]>[lctrl]
-
