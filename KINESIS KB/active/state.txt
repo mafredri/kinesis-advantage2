@@ -5,3 +5,4 @@ macro_disable=OFF
 macro_speed=3
 status_play_speed=3
 power_user=true
+
