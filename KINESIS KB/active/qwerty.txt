@@ -1,8 +1,0 @@
-[scroll]>[shutdn]
-[kp=]>[kp=mac]
-[lctrl]>[lwin]
-[kp-lctrl]>[kp-lwin]
-[rctrl]>[rwin]
-[kp-rctrl]>[kp-rwin]
-[rwin]>[rctrl]
-[kp-rwin]>[kp-rctrl]
