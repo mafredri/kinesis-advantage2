@@ -8,3 +8,5 @@
 [kp-rwin]>[kp-rctrl]
 [pup]>[rctrl]
 [home]>[lctrl]
+[pdown]>[pup]
+[caps]>[f19]
